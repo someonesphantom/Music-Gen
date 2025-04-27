@@ -1,2 +1,2 @@
 # Music-Gen
-Testing to create Music audio from Music notes and sheet
+Testing to generate Music audio from Music notes or Music sheet
